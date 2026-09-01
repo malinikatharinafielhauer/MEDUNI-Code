@@ -2,4 +2,4 @@
 31.8.: (switched to claude code, because purely hardcoding would not work). Made the Retrieval work, and some question answer pairs from the ophthalmology.csv were retrieved.)
 
 1.9. Before the first of september I started out with Qwen 3.5 - 9. Too many parameters. Then switched to Q2.5 - 7B. Still too many parameters. Now trying with "Qwen/Qwen3-0.6B". 0.6 B Parameters. This is due to the capacity of 
-my device. Got rid of "bitsandbytes" function and the QLoRA extension. Thinking about light rag. 
+my device. Got rid of "bitsandbytes" function and the QLoRA extension. Thinking about light rag and a possible way to include the Optho 1.0 book ito the knowledge base. 
